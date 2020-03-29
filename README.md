@@ -33,3 +33,6 @@ C. Normalization and Lemmatization: POS tags are the basis of lemmatization proc
 
 D. Efficient stopword removal : POS tags are also useful in efficient removal of stopwords.
 For example, there are some tags which always define the low frequency / less important words of a language. For example: (IN – “within”, “upon”, “except”), (CD – “one”,”two”, “hundred”), (MD – “may”, “must” etc)
+
+Conclusion:
+Thus we have extarcted data from any website url that is specified
