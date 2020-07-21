@@ -6,7 +6,7 @@ Website Independent Data Extraction is used to extract structured or unstructure
 
 urllib	nltk	bs4	requests	
 
-## Installing dependencies on windows:
+## Installing dependencies:
 
 > pip install requests bs4 urllib nltk
 
