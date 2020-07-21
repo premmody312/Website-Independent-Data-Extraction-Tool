@@ -10,6 +10,15 @@ urllib	nltk	bs4	requests
 
 > pip install requests bs4 urllib nltk
 
+## Screenshots:
+![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture1.PNG)
+![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture2.PNG)
+![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture3.PNG)
+![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture4.PNG)
+![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture5.PNG)
+![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture6.PNG)
+
+
 ## Algorithm:
 
 ### Text to Features (Feature Engineering on text data)
