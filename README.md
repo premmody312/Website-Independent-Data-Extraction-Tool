@@ -12,11 +12,17 @@ urllib	nltk	bs4	requests
 
 ## Screenshots:
 ![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture1.PNG)
+___
 ![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture2.PNG)
+___
 ![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture3.PNG)
+___
 ![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture4.PNG)
+___
 ![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture5.PNG)
+___
 ![alt text](https://github.com/premmody312/Website-Independent-Data-Extraction-Tool/blob/master/Screenshots/Capture6.PNG)
+___
 
 
 ## Algorithm:
